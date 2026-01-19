@@ -22,8 +22,7 @@ This architecture mimics real-world IoT systems where "Edge Devices" (Arduino) s
 * **Components:**
     * 3x LEDs (Red, Green, Blue)
     * 3x Push Buttons
-    * Resistors (Current limiting for LEDs)
-    * Internal Pull-up Resistors (Enabled in software for buttons)
+    * 3x Resistors (10k Ω)
 
 ## 🔌 Circuit & Wiring Details
 The circuit separates inputs (Buttons) and outputs (LEDs) into distinct pin groups.
@@ -52,6 +51,7 @@ The system relies on a "Handshake" protocol between the two devices:
 ## 📸 Breadboard Diagram
 
 <img width="1707" height="728" alt="Bitanga_Olano_Paciente_Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111B_Laboratory-Portfolio/blob/main/LabAct6/Breadboard%20Diagram%20for%20Lab%20Act%20%236.jpeg" />
+
 ## 🧠 Key Learnings
 In this activity, our team learned:
 1.  **Closed-Loop Architecture:** We learned that the button didn't turn on the LED directly. The signal had to travel to the computer and back. This taught us about **latency** and the importance of efficient code to keep the delay unnoticeable.
