@@ -6,9 +6,8 @@ The **Laboratory Activity #1** focuses on the fundamentals of **Arduino** as a t
 The system sequentially illuminates a series of LEDs and then turns them off, utilizing digital output pins and timing logic.
 
 ## 🎯 Objectives
-* To review Arduino as a central device for IoT system implementation.
-* To discuss and demonstrate the concept of **digital signals** (HIGH/LOW) within an Arduino circuit.
-* To practice circuit wiring and code implementation using the `digitalWrite()` function.
+* Review Arduino as a device for IoT systems implementation
+* Discuss digital signals and its implementation in a Arduino circuit.
 
 ## 🛠️ Hardware & Tech Stack
 * **Microcontroller:** Arduino Uno (or compatible board)
