@@ -18,7 +18,7 @@ Instead of using the standard Arduino IDE Serial Monitor, we built a custom CLI 
     * **Library:** `pyserial` (Install via `pip install pyserial`)
 * **Components:**
     * 3x LEDs (Red, Green, Blue)
-    * 3x Resistors (10kΩ)
+    * 3x Resistors (10k Ω)
     * Breadboard & Jumper Wires
 
 ## 🔌 Circuit & Wiring Details
