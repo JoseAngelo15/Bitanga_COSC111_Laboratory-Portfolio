@@ -10,15 +10,15 @@ The system acts as a **Latching Alarm**:
 4.  The only way to stop the alarm is for a user to type **"STOP"** (case-insensitive) in the Serial Monitor.
 
 ## 🎯 Objectives
-* To understand and implement Arduino Serial Connection functions (`Serial.readStringUntil`, `Serial.available`).
-* To process user input strings (String manipulation, trimming, and casing).
-* To create a control circuit that integrates sensor logic with manual Serial overrides.
+* Understand and implement Arduino Serial Connection
+* Utilize and familiarize students on different basic Serial connection functions
+* Create a simple circuit that can be controlled using Serial connection
 
 ## 🛠️ Hardware & Tech Stack
 * **Microcontroller:** Arduino Uno
 * **Sensors:** Photoresistor (LDR)
 * **Output:** LED (Pin 8)
-* **Resistors:** 10kΩ (Sensor Divider)
+* **Resistors:** 10k Ω (Sensor Divider)
 
 ## 🔌 Circuit & Wiring Details
 The circuit uses a standard voltage divider for the Photoresistor and a digital output for the LED.
