@@ -1,7 +1,7 @@
 # Laboratory Activity #1: Working with Digital Signals
 
 ## 📖 Project Overview
-This project is a requirement for **Laboratory Activity #1**, focusing on the fundamentals of **Arduino** as a tool for IoT systems. The goal was to design and implement a "Running Light" circuit that demonstrates the manipulation of digital signals using a microcontroller.
+The **Laboratory Activity #1** focuses on the fundamentals of **Arduino** as a tool for IoT systems. The goal was to design and implement a "Running Light" circuit that demonstrates the manipulation of digital signals using a microcontroller.
 
 The system sequentially illuminates a series of LEDs and then turns them off, utilizing digital output pins and timing logic.
 
@@ -14,7 +14,6 @@ The system sequentially illuminates a series of LEDs and then turns them off, ut
 * **Microcontroller:** Arduino Uno (or compatible board)
 * **Components:**
     * 5x LEDs (Light Emitting Diodes)
-    * 5x Resistors (220Ω or 330Ω recommended)
     * Breadboard and Jumper Wires
 * **Software:** Arduino IDE
 * **Simulation Tools:** TinkerCad / Fritzing
