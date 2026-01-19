@@ -13,7 +13,7 @@ The system sequentially illuminates a series of LEDs and then turns them off, ut
 * **Microcontroller:** Arduino Uno (or compatible board)
 * **Components:**
     * 5x LEDs (Light Emitting Diodes)
-    * 5x Resistors (10Ω)
+    * 5x Resistors (10k Ω)
     * Breadboard and Jumper Wires
 * **Software:** Arduino IDE
 * **Simulation Tools:** TinkerCad / Fritzing
