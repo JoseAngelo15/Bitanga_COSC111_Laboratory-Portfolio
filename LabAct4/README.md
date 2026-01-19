@@ -42,7 +42,7 @@ The code uses a **Boolean Flag (`isBlinking`)** to manage the system's state.
 
 ## 📸 Breadboard Diagram
 
-<img width="1707" height="728" alt="Bitanga_Olano_Paciente_Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111B_Laboratory-Portfolio/blob/main/LabAct4/Breadboard%20Diagram%20for%20Lab%20Act%20%234.png" />
+<img width="1707" height="728" alt="Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111B_Laboratory-Portfolio/blob/main/LabAct4/Breadboard%20Diagram%20for%20Lab%20Act%20%234.png" />
 
 ## 🧠 Key Learnings
 In this activity, our team learned:

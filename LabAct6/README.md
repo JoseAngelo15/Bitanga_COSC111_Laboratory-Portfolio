@@ -50,7 +50,7 @@ The system relies on a "Handshake" protocol between the two devices:
 
 ## 📸 Breadboard Diagram
 
-<img width="1707" height="728" alt="Bitanga_Olano_Paciente_Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111B_Laboratory-Portfolio/blob/main/LabAct6/Breadboard%20Diagram%20for%20Lab%20Act%20%236.jpeg" />
+<img width="1707" height="728" alt="Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111B_Laboratory-Portfolio/blob/main/LabAct6/Breadboard%20Diagram%20for%20Lab%20Act%20%236.jpeg" />
 
 ## 🧠 Key Learnings
 In this activity, our team learned:

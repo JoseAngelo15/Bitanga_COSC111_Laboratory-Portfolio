@@ -47,7 +47,7 @@ The system operates in a **Looping Request-Response** cycle:
 
 ## 📸 Breadboard Diagram
 
-<img width="1707" height="728" alt="Bitanga_Olano_Paciente_Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111B_Laboratory-Portfolio/blob/main/LabAct5/Breadboard%20Diagram%20for%20Lab%20Act%20%235.png" />
+<img width="1707" height="728" alt="Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111B_Laboratory-Portfolio/blob/main/LabAct5/Breadboard%20Diagram%20for%20Lab%20Act%20%235.png" />
 
 ## 🧠 Key Learnings
 In this activity, our team learned:

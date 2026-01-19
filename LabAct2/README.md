@@ -41,7 +41,7 @@ The firmware uses a nested `while` loop structure to control the sequence:
 
 ## 📸 Breadboard Diagram
 
-<img width="1707" height="728" alt="Bitanga_Olano_Paciente_Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111_Laboratory-Portfolio/blob/main/LabAct2/Breadboard%20Diagram%20for%20Lab%20Act%20%232.png" />
+<img width="1707" height="728" alt="Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111_Laboratory-Portfolio/blob/main/LabAct2/Breadboard%20Diagram%20for%20Lab%20Act%20%232.png" />
 
 ## 🧠 Key Learnings
 In completing this activity, our group learned:

@@ -39,7 +39,7 @@ The firmware (`.ino` file) controls the LEDs in a specific sequence:
 4.  **Loop:** This pattern repeats indefinitely.
 
 ## 📸 Breadboard Diagram
-<img width="1707" height="728" alt="Bitanga_Olano_Paciente_Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111_Laboratory-Portfolio/blob/main/LabAct1/Breadboard%20Diagram%20for%20Lab%20Act%20%231.png" />
+<img width="1707" height="728" alt="Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111_Laboratory-Portfolio/blob/main/LabAct1/Breadboard%20Diagram%20for%20Lab%20Act%20%231.png" />
 
 ## 🧠 Key Learnings
 Through this activity, our group learned:
