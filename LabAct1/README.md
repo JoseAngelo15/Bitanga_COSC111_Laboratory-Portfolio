@@ -40,7 +40,7 @@ The firmware (`.ino` file) controls the LEDs in a specific sequence:
 4.  **Loop:** This pattern repeats indefinitely.
 
 ## 📸 Breadboard Diagram
-*(Replace this text with your actual image. For example: `![Circuit Diagram](images/breadboard_diagram.png)` or a screenshot from TinkerCad)*
+<img width="1707" height="728" alt="Bitanga_Olano_Paciente_Breadboard_diagram" src="https://github.com/JoseAngelo15/Bitanga_COSC111_Laboratory-Portfolio/blob/main/LabAct1/Breadboard%20Diagram%20for%20Lab%20Act%20%231.png" />
 
 ## 🧠 Key Learnings
 Through this activity, our group learned:
@@ -48,6 +48,8 @@ Through this activity, our group learned:
 2.  **Timing & Sequencing:** We learned how `delay()` functions impact the program flow, allowing us to create distinct visual patterns rather than instantaneous changes.
 3.  **Circuit Logic:** We reinforced our knowledge of current flow, specifically proper grounding and the necessity of current-limiting resistors for LED protection.
 4.  **Pin Addressing:** We practiced addressing specific digital pins programmatically to match physical wiring configurations.
+
+---
 
 ## 👥 Team Members
 **Leader:**
@@ -57,9 +59,4 @@ Through this activity, our group learned:
 * Jose Angelo B. Bitanga
 * Gwen Marinie C. Paciente
 
----
-### 📝 Individual Grades
-*(Edit this section with the grading breakdown as required by your instructor)*
-* **John Robert L. Olaño:** [Grade]
-* **Jose Angelo B. Bitanga:** [Grade]
-* **Gwen Marinie C. Paciente:** [Grade]
+
