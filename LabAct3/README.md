@@ -6,10 +6,9 @@ This project, created for **Laboratory Activity #3**, simulates a **Fire Detecti
 The system uses specific threshold logic: an alarm (LED & Buzzer) is triggered **only** if the temperature exceeds 50°C **AND** the light level indicates a fire (Brightness value ≥ 220).
 
 ## 🎯 Objectives
-* To familiarize the team with basic analog sensors used in IoT.
-* To integrate multiple sensors (Thermistor & Photoresistor) into a single Arduino circuit.
-* To implement modular code by separating sensor reading logic into distinct functions.
-* To create a "Fire Sensor" logic using conditional statements (`&&` operators).
+* Familiarize students with the basic sensor components that can be used in IoT
+* Integrate these sensor components in an Arduino circuit
+* Create a simple implementation of a fire sensor
 
 ## 🛠️ Hardware & Tech Stack
 * **Microcontroller:** Arduino Uno
